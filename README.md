@@ -1,6 +1,12 @@
 # BFU
 
-# Bayesain Federated Unlearning and BFU-SS
+# BFU: Bayesian Federated Unlearning with Parameter Self-Sharing
+
+### Overview
+This repository is the official implementation of BFU and BFU-SS, and the corresponding paper is accepted by ASIACCS23.
+We only use one middle layer of the model to implement the variational unlearning.
+We also upload the compared method HFU implemented by ourself.
+
 
 ### Prerequisites
 
