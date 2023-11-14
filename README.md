@@ -38,3 +38,15 @@ python /HFU/backdoor_FedHessian.py
 ```
 python /HFU/backdoor_FedHessian_er01_cifar.py
 ```
+
+### Citation
+
+```
+@inproceedings{wang2023bfu,
+  title={BFU: Bayesian Federated Unlearning with Parameter Self-Sharing},
+  author={Wang, Weiqi and Tian, Zhiyi and Zhang, Chenhan and Liu, An and Yu, Shui},
+  booktitle={Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security},
+  pages={567--578},
+  year={2023}
+}
+```
